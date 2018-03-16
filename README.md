@@ -1,6 +1,7 @@
 # Booksmania
 
 Booksmania is a web application that provides a dynamic platfor for book searching and rental. 
+
 The key features of the application are:
 
 1. Users can search book by Name, ISBN.
