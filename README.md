@@ -4,10 +4,10 @@ Booksmania is a web application that provides a dynamic platfor for book searchi
 
 The key features of the application are:
 
-1. Users can search book by Name, ISBN.
-2. Users will get notified 7 days prior to the end of the subscription.
-3. Auto-suggestion of books according to the user search.
-4. Cart feature to save books in a cart.
+1. Users can search book by Name or ISBN#.
+2. Users will get notified via email 7 days prior to the end of the subscription.
+3. Auto-suggestion of books according to the user search patterns.
+4. Cart feature to save books in a cart for checkout.
 5. Automatic email notification for subscription renewal as well as new book added.
 
 ## Technologies Used in the application:
