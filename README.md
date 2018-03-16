@@ -1,4 +1,4 @@
-# Booksmania
+# Book rental web application
 
 Booksmania is a web application that provides a dynamic platfor for book searching and rental. 
 
