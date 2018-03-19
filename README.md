@@ -14,7 +14,7 @@ The key features of the application are:
 Java, Spring, Hibernate, Maven, Bootstrap, Ajax, Jquery, HTML, CSS, MySQL, Sonar, jUnit, Rest API, Spring-scheduling, Spring-security
 
 ## learnings:
-Learning:
+
 1. Creating a 4+1 view (includes ER diagram, class diagram, sequence diagram, component interaction diagram, deployment diagram etc.)
 2. Basic Design Patterns (Object Factory, Singleton etc.)
 3. MVC Framework
