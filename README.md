@@ -12,3 +12,21 @@ The key features of the application are:
 
 ## Technologies Used in the application:
 Java, Spring, Hibernate, Maven, Bootstrap, Ajax, Jquery, HTML, CSS, MySQL, Sonar, jUnit, Rest API, Spring-scheduling, Spring-security
+
+## learnings:
+Learning:
+1. Creating a 4+1 view (includes ER diagram, class diagram, sequence diagram, component interaction diagram, deployment diagram etc.)
+2. Basic Design Patterns (Object Factory, Singleton etc.)
+3. MVC Framework
+4. ORM
+5. Logging
+6. Scheduler for feed file processing and any other scenario as necessary
+7. DB concepts (Stored Procedure)
+8. XML/XLS parsing
+9. PDF Report Generation
+10. Basic idea of Ajax, jQuery
+11.	Profiling
+12.	Build Scripts
+13.	Continuous Integration.
+14.	Unit Test Cases.
+15.	Code Quality Metrics and tools
