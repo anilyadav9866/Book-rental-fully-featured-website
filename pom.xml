@@ -16,7 +16,7 @@
         <hibernate.version>4.3.5.Final</hibernate.version>
         <apache.tiles.version>2.2.1</apache.tiles.version>
 
-        <sonar.host.url> http://54.210.60.246:9000</sonar.host.url>
+        <sonar.host.url> http://54.210.60.246:9000/book-rental</sonar.host.url>
             	    <!-- 
                	 <sonar.login>admin</sonar.login>
                	 <sonar.password>kkfunda</sonar.password> 
