@@ -26,6 +26,23 @@
 
   </properties>
   
+
+  <distributionManagement>
+
+            <repository>
+              <id>nexus</id>
+              <name>KK FUNDA Releases Nexus Repository</name>
+              <url> http://44.204.239.53:8081/book-rental/repository/book-rental-release/</url>
+            </repository>
+
+            <snapshotRepository>
+              <id>nexus</id>
+              <name>KK FUNDA Snapshot Nexus Repository </name>
+              <url> http://44.204.239.53:8081/book-rental/repository/book-rental-snapshot/</url>
+            </snapshotRepository>
+
+        </distributionManagement>
+
   <dependencies>
 	<!--   MYSQL -->
     	<dependency>
