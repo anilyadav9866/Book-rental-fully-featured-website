@@ -15,6 +15,15 @@
         <org.slf4j-version>1.7.5</org.slf4j-version>
         <hibernate.version>4.3.5.Final</hibernate.version>
         <apache.tiles.version>2.2.1</apache.tiles.version>
+
+        <sonar.host.url> http://54.210.60.246:9000</sonar.host.url>
+            	    <!-- 
+               	 <sonar.login>admin</sonar.login>
+               	 <sonar.password>kkfunda</sonar.password> 
+               	 -->
+        <sonar.login>squ_d8abda121dc20f7b716c4ade52ca5c53f48dcbd8</sonar.login>
+
+
   </properties>
   
   <dependencies>
